@@ -1,0 +1,3 @@
+site,element,relay_ips
+Branch-Seattle,,192.168.1.1;192.168.1.2
+Branch-Portland,PDX-ION-01,192.168.1.1;192.168.1.2
